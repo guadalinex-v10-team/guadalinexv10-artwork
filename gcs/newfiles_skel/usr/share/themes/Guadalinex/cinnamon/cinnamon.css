@@ -20,7 +20,7 @@
 @import url("windowlist.css");
 @import url("applets.css");
 
-Tooltip {
+#Tooltip {
         border: 1px solid rgba(212,185,67,1.0);
         border-radius: 4px;
         padding: 2px 12px;
