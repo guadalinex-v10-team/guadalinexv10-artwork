@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=GECOS Theme
-Description=The GECOS official theme for plymouth.
+Name=Guadalinex Theme
+Description=The Guadalinx official theme for plymouth.
 ModuleName=two-step
 
 [two-step]
-ImageDir=/lib/plymouth/themes/gecos
+ImageDir=/lib/plymouth/themes/guada
 HorizontalAlignment=.5
 VerticalAlignment=.5
 Transition=none

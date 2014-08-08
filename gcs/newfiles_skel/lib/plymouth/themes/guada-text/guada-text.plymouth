@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=GECOS text
-Description=GECOS text mode theme
+Name=Guadalinex text
+Description=Guadalinex text mode theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=GECOS v2
+title=Guadalinex V9
 black=0x000000
 white=0xFFFFFF
 brown=0x9cee00
