@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=GECOS Theme
+Description=The GECOS official theme for plymouth.
+ModuleName=two-step
+
+[two-step]
+ImageDir=/lib/plymouth/themes/gecos
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x515151
+BackgroundEndColor=0x616161
