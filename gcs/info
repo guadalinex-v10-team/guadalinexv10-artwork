@@ -1,9 +1,9 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de Guadalinex v10
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: guadalinexv9-artwork
+name: guadalinexv10-artwork
 
 # Autor 
 author: David Amian <damian@emergya.com>
@@ -14,12 +14,12 @@ priority: optional
 # Section
 section: metapackages
 
-shortdesc: "Guadalinex v9 artwork"
+shortdesc: "Guadalinex v10 artwork"
 
-longdesc: "This package contains every Guadalinex v9 artwork file (backgrounds, icons...)."
+longdesc: "This package contains every Guadalinex v10 artwork file (backgrounds, icons...)."
 
 # Versión del paquete
-version: 9.0
+version: 10.0
 
 # Cambios en esta versión
 changes:

@@ -5,6 +5,6 @@ fi
 
 if [ ! -L /usr/share/backgrounds/linuxmint/default_background.jpg ]
 then
-    ln -s /usr/share/backgrounds/guadalinex/guadalinex_v9-panoramico.jpg /usr/share/backgrounds/linuxmint/default_background.jpg
+    ln -s /usr/share/backgrounds/guadalinex/guadalinex_panoramico.jpg /usr/share/backgrounds/linuxmint/default_background.jpg
 fi
 

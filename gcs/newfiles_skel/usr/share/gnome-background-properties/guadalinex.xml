@@ -4,7 +4,7 @@
 
 <wallpaper deleted="false">
     <name>Guadalinex V9 (Panoramico)</name>
-    <filename>/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg</filename>
+    <filename>/usr/share/backgrounds/guadalinex/guadalinex_panoramico.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -13,7 +13,7 @@
 
 <wallpaper deleted="false">
     <name>Guadalinex V9</name>
-    <filename>/usr/share/backgrounds/guadalinex/guadalinexv9_bg.jpg</filename>
+    <filename>/usr/share/backgrounds/guadalinex/guadalinex_bg.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
