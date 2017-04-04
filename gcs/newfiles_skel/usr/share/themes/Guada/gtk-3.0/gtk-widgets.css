@@ -466,8 +466,9 @@ GdMainIconView.content-view {
 .titlebar {
     border-radius: 6px 6px 0 0;
     background-image: linear-gradient(to bottom,
-                            @toolbar_bg_a,
-                            @toolbar_bg_b);
+                            @toolbar_bg_c,
+                            @toolbar_bg_d);
+    background-color: none;
     text-shadow: 0 1px alpha(white, 0.4);                                                        
 }
 
@@ -482,6 +483,14 @@ GdMainIconView.content-view {
 .titlebar.default-decoration {
     border: none;
     box-shadow: none;
+}
+
+.titlebar:backdrop {
+    background-image: linear-gradient(to bottom,
+                            @toolbar_bg_a,
+                            @toolbar_bg_b);
+    background-color: none;
+    text-shadow: none;
 }
 
 .window-frame {
@@ -661,8 +670,14 @@ GtkViewport.frame {
     border-width: 0;
 }
 
+.frame.flat,
 GtkScrolledWindow GtkViewport.frame {
     border: none;
+}
+
+.frame.action-bar {
+    padding: 4px;
+    border-width: 1px 0 0;
 }
 
 /************
@@ -704,10 +719,6 @@ GtkScrolledWindow GtkViewport.frame {
     border-width: 0 0 1px 0;
     border-radius: 6px 6px 0 0;
     border-color: @border;
-    background-color: transparent;
-    background-image: linear-gradient(to bottom,
-                            @toolbar_bg_a,
-                            @toolbar_bg_b);
     box-shadow: 0 1px alpha(white, 0.5);                            
 }
 
