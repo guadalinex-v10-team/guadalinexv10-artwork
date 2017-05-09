@@ -6,3 +6,7 @@ guadalinexv10-mint-artwork-cinnamon-conf
 guadalinexv10-mint-artwork-common-conf
 guadalinexv10-mint-x-icons-conf
 guadalinexv10-cinnamon-conf
+
+# Hide gscriptor icon
+pcsc-tools
+
